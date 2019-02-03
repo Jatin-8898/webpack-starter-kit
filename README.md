@@ -17,4 +17,5 @@ A simple configuration of the Webpack.
 * Now, you have a local copy of your fork of the webpack-config repository!
 * cd into the project dir
 * In the project root, run *`npm install`* to install dependencies
-* To start app `npm run dev`
+* To start app 
+  ##  npm run dev
