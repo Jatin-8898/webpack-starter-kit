@@ -1,5 +1,5 @@
-# Webpack Config
-A simple configuration of the Webpack.
+# Webpack Starter Pack
+A simple configuration setup of the Webpack4.
 
 ## Pre-requisites 
 
