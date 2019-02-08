@@ -1,12 +1,12 @@
-# Webpack Starter Kit
+# 🔻 Webpack Starter Kit
 A simple configuration setup of the Webpack4.
 
-## Pre-requisites 
+## 📜 Pre-requisites 
 
 * Install node on your machine
 * Install yarn (yarn is used in place of npm)
 
-## Installation
+## 📝 Installation
 
 * Fork this repo.
 * Navigate to your fork of the webpack-config.
