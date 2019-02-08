@@ -1,4 +1,4 @@
-# Webpack Starter Pack
+# Webpack Starter Kit
 A simple configuration setup of the Webpack4.
 
 ## Pre-requisites 
