@@ -18,4 +18,6 @@ A simple configuration setup of the Webpack4.
 * cd into the project dir
 * In the project root, run *`npm install`* to install dependencies
 * To start app 
-  ##  npm run dev
+  ``` 
+  $ npm run dev
+  ```
